@@ -10,6 +10,7 @@
     margin-top: 10px;
     border-radius: 5px;
 }
+/*mod 386*/
 .cosmo-card:hover{
     z-index: 1;
     transform: scale(1.1);
